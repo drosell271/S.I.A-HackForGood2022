@@ -92,5 +92,13 @@ Enlace para probar la maqueta virtual: [Google Drive](https://drive.google.com/d
 ![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Arduino/3.jpeg?raw=true)
 
 <br><br>
-### Proyecto realizado para:
+### Proyecto realizado por:
+- Jose Luis Utrera
+- Héctor Sabater
+- Daniel Rosell
+- José Javier Casado
+- Miguel Ángel Adorna
+- Adrián Pacheco
+
+### para:
 ![image](https://user-images.githubusercontent.com/51410145/197330812-7299b227-3a70-41e8-bd4b-8044d6bf25ec.png)
