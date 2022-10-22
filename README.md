@@ -35,10 +35,23 @@ Por último, las posibilidades se multiplican empleando cámaras de visión arti
 <br>
 
 ## 4.	IMPACTO ESTIMADO
+Para una implementación óptima del proyecto primero se requeriría un estudio representativo teniendo en cuenta entre otros factores del número de habitantes censados del en la población a estudiar, densidad de locales de ocio, grupo de edad de la población residente, día de la semana, número de coches censados en la población a estudiar… Estos datos están disponibles en portales virtuales como el del propio Ayuntamiento de Madrid.
+La idea sería seleccionar una zona de estudio suficientemente representativa con distintas características y escenarios para medir el impacto en cada situación. Esto permitiría detectar qué lugares son óptimos para implementar esta tecnología para una posterior implementación a gran escala con mayor seguridad de éxito.
+
+Este innovador sistema, permitirá un ahorro que en ciertas situaciones puede llegar hasta el 92%, aunque es lógico que esta cifra no se alcanza en todas las situaciones, podríamos estimar en un supuesto más realista en el que el caso 1 ocurriera un 10% del tiempo, el caso 2 un 20%, el caso 3 un 20% el caso 4 un 40% y no saliera rentable el 20% de las veces, podríamos tener un ahorro medio del 45%.<br>
+
+//
+
+Además tenemos una relación lineal entre el número de detecciones y el ahorro energético, dándonos cuenta de que para un tiempo de activación de 1.2m que estudiamos ahora mismo y con nuestro algoritmo de enciendido actual, tendríamos un ahorro hasta las 12 detecciones/hora.<br>
+
+//
+
+El coste de una farola LED varía entre 500€ y 800€, nuestra solución aportaría un coste al sistema aproximado del 10% al coste total. A partir de esto, podemos calcular el tiempo de retorno de la inversión.<br>
+<br>
+Estimando el coste de luz anual de una farola led de 100W como unos 54€, podríamos gracias al ahorro del 45% estimar el retorno de la inversión en unos 2 años. <br>
 
 <br>
 <br>
-
 ## 5.	POSIBLE VÍA DE IMPLEMENTACIÓN
 
 Para una implementación óptima del proyecto primero se requeriría un estudio representativo teniendo en cuenta entre otros factores del número de habitantes censados del en la población a estudiar, densidad de locales de ocio, grupo de edad de la población residente, día de la semana, número de coches censados en la población a estudiar… Estos datos están disponibles en portales virtuales como el del propio Ayuntamiento de Madrid.
