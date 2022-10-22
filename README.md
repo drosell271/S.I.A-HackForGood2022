@@ -51,6 +51,9 @@ La idea sería seleccionar una zona de estudio suficientemente representativa co
 <a name="Virtual"></a>
 
 ## Maqueta virtual realizada en Minecraft
+#### Video
+
+[![Alt text](https://img.youtube.com/vi/sBBjgOlI5Ro/0.jpg)](https://www.youtube.com/watch?v=sBBjgOlI5Ro)
 
 Enlace para probar la maqueta virtual: [Google Drive](https://drive.google.com/drive/folders/1IZtVTOTjYdUPhnlAZZ3NCLk7LDjHiguk?usp=sharing)
 <br>
