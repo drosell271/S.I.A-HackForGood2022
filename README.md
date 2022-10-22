@@ -62,6 +62,9 @@ Enlace para probar la maqueta virtual: [Google Drive](https://drive.google.com/d
 
 ## Maqueta física realizada con Arduino
 
+[![Alt text](https://img.youtube.com/vi/mNPs2FaPj2A/0.jpg)](https://www.youtube.com/watch?v=mNPs2FaPj2A)
+<br>
+
 
 <br><br>
 ### Proyecto realizado para:
