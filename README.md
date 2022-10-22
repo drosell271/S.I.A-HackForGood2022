@@ -14,6 +14,7 @@ Esta problemática afecta tanto a grandes ciudades como a zonas rurales donde la
 
 <br>
 <br>
+
 ## 2.	SITUACION ACTUAL
 
 La transición a la tecnología LED es ya una realidad en el alumbrado público en España. A pesar de no ser posible encontrar muchos datos concretos sobre número de lámparas LED actuales, constantemente aparecen noticias de renovaciones de alumbrado hacia esta tecnología mucho más eficiente. De hecho, en los últimos días, el Ayuntamiento de Madrid ha dado luz verde a una renovación de más de 70.000 lámparas que se convertirán en lámparas LED. 
@@ -24,8 +25,10 @@ Además, España forma parte del acuerdo de la Agenda 2030. Se trata de un plan 
 ![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Presentaci%C3%B3n/Agenda2030.png?raw=true)
 
 La Agenda 2030 concreta este y otros 17 objetivos de desarrollo sostenibles a alcanzar hasta antes de este año, figura 1. Nuestro sistema encajaría en los objetivos 3, 11 y 12, desde el ahorro de consumo de energía y la reducción de contaminación lumínica que afecta a la salud y bienestar de las personas.
+
 <br>
 <br>
+
 ## 3.	SOLUCIÓN PROPUESTA
 
 La solución propuesta es un Sistema Inteligente de Alumbrado público. Se parte de un cambio de enfoque a la hora de gestionar el alumbrado público. Desde el control crepuscular u horario actual para el encendido de alumbrado proponemos la iluminación de la vía solo ante la detección de presencia de usuarios en la misma.
@@ -55,6 +58,7 @@ Estimando el coste de luz anual de una farola led de 100W como unos 54€, podr�
 
 <br>
 <br>
+
 ## 5.	POSIBLE VÍA DE IMPLEMENTACIÓN
 
 Para una implementación óptima del proyecto primero se requeriría un estudio representativo teniendo en cuenta entre otros factores del número de habitantes censados del en la población a estudiar, densidad de locales de ocio, grupo de edad de la población residente, día de la semana, número de coches censados en la población a estudiar… Estos datos están disponibles en portales virtuales como el del propio Ayuntamiento de Madrid.
@@ -73,6 +77,8 @@ La idea sería seleccionar una zona de estudio suficientemente representativa co
 [![Alt text](https://img.youtube.com/vi/sBBjgOlI5Ro/0.jpg)](https://www.youtube.com/watch?v=sBBjgOlI5Ro)
 
 Enlace para probar la maqueta virtual: [Google Drive](https://drive.google.com/drive/folders/1IZtVTOTjYdUPhnlAZZ3NCLk7LDjHiguk?usp=sharing)
+
+<br>
 <br>
 
 <a name="Fisica"></a>
@@ -81,7 +87,9 @@ Enlace para probar la maqueta virtual: [Google Drive](https://drive.google.com/d
 
 [![Alt text](https://img.youtube.com/vi/mNPs2FaPj2A/0.jpg)](https://www.youtube.com/watch?v=mNPs2FaPj2A)
 <br>
-
+![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Arduino/1.jpeg?raw=true)
+![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Arduino/2.jpeg?raw=true)
+![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Arduino/3.jpeg?raw=true)
 
 <br><br>
 ### Proyecto realizado para:
