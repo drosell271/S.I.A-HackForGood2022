@@ -69,7 +69,9 @@ La idea sería seleccionar una zona de estudio suficientemente representativa co
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 
 <a name="Virtual"></a>
 
@@ -80,9 +82,6 @@ La idea sería seleccionar una zona de estudio suficientemente representativa co
 
 Enlace para probar la maqueta virtual: [Google Drive](https://drive.google.com/drive/folders/1IZtVTOTjYdUPhnlAZZ3NCLk7LDjHiguk?usp=sharing)
 
-<br>
-<br>
-<br>
 <br>
 <br>
 
