@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Logo/Logo.png?raw=true?raw=true)
+![Alt text](https://github.com/Dan2710/S.I.A-HackForGood2022/blob/main/Logo/Logo.png?raw=true?raw=true)
 # Sistema Inteligente de Alumbrado
 [![Alt text](https://img.youtube.com/vi/jkw94pm7Xho/0.jpg)](https://www.youtube.com/watch?v=jkw94pm7Xho)
 <br>
@@ -26,7 +26,7 @@ Esta tecnología es clave a la hora de emplear nuestra solución pues permite un
 
 Además, España forma parte del acuerdo de la Agenda 2030. Se trata de un plan de acción a favor de las personas, el planeta y la prosperidad, que también tiene la intención de fortalecer la paz universal y el acceso a la justicia, según el propio Gobierno de España. En este plan se recogen una serie de objetivos para el año 2030 del que destaca la necesidad de reducir en un 32,5% la energía consumida respecto a la previsión realizada para cada país para dicho año. Por ello, las medidas y sistemas de ahorro energético cobran ahora, si cabe, aún más protagonismo.
 
-![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Presentaci%C3%B3n/Agenda2030.png?raw=true)<br>
+![Alt text](https://github.com/Dan2710/S.I.A-HackForGood2022/blob/main/Presentaci%C3%B3n/Agenda2030.png?raw=true)<br>
 
 La Agenda 2030 concreta este y otros 17 objetivos de desarrollo sostenibles a alcanzar hasta antes de este año, figura 1. Nuestro sistema encajaría en los objetivos 3, 11 y 12, desde el ahorro de consumo de energía y la reducción de contaminación lumínica que afecta a la salud y bienestar de las personas.
 
@@ -53,11 +53,11 @@ La idea sería seleccionar una zona de estudio suficientemente representativa co
 
 Este innovador sistema, permitirá un ahorro que en ciertas situaciones puede llegar hasta el 92%, aunque es lógico que esta cifra no se alcanza en todas las situaciones, podríamos estimar en un supuesto más realista en el que el caso 1 ocurriera un 10% del tiempo, el caso 2 un 20%, el caso 3 un 20% el caso 4 un 40% y no saliera rentable el 20% de las veces, podríamos tener un ahorro medio del 45%.
 
-![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Presentaci%C3%B3n/Grafica%201.jpeg?raw=true)
+![Alt text](https://github.com/Dan2710/S.I.A-HackForGood2022/blob/main/Presentaci%C3%B3n/Grafica%201.jpeg?raw=true)
 
 Además tenemos una relación lineal entre el número de detecciones y el ahorro energético, dándonos cuenta de que para un tiempo de activación de 1.2m que estudiamos ahora mismo y con nuestro algoritmo de enciendido actual, tendríamos un ahorro hasta las 12 detecciones/hora.
 
-![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Presentaci%C3%B3n/Grafica%202.jpeg?raw=true)
+![Alt text](https://github.com/Dan2710/S.I.A-HackForGood2022/blob/main/Presentaci%C3%B3n/Grafica%202.jpeg?raw=true)
 
 El coste de una farola LED varía entre 500€ y 800€, nuestra solución aportaría un coste al sistema aproximado del 10% al coste total. A partir de esto, podemos calcular el tiempo de retorno de la inversión.
 
@@ -95,9 +95,9 @@ Enlace para probar la maqueta virtual: [Google Drive](https://drive.google.com/d
 
 [![Alt text](https://img.youtube.com/vi/mNPs2FaPj2A/0.jpg)](https://www.youtube.com/watch?v=mNPs2FaPj2A)
 <br>
-![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Arduino/1.jpeg?raw=true)
-![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Arduino/2.jpeg?raw=true)
-![Alt text](https://github.com/Dan2710/S.I.A-Sistema-Inteligente-de-Alumbrado/blob/main/Arduino/3.jpeg?raw=true)
+![Alt text](https://github.com/Dan2710/S.I.A-HackForGood2022/blob/main/Arduino/1.jpeg?raw=true)
+![Alt text](https://github.com/Dan2710/S.I.A-HackForGood2022/blob/main/Arduino/2.jpeg?raw=true)
+![Alt text](https://github.com/Dan2710/S.I.A-HackForGood2022/blob/main/Arduino/3.jpeg?raw=true)
 
 <br><br>
 ### Proyecto realizado por:
