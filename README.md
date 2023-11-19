@@ -100,7 +100,7 @@ Enlace para probar la maqueta virtual: [Google Drive]()
 
 ## Maqueta física realizada con Arduino
 
-![Alt text](https://github.com/drosell271/S.I.A-HackForGood2022/blob/main/Logo/Logo_YT.png?raw=true)
+[![Alt text](https://img.youtube.com/vi/mNPs2FaPj2A/0.jpg)](https://www.youtube.com/watch?v=mNPs2FaPj2A)
 <br>
 ![Alt text](https://github.com/drosell271/S.I.A-HackForGood2022/blob/main/Arduino/1.jpeg?raw=true)
 ![Alt text](https://github.com/drosell271/S.I.A-HackForGood2022/blob/main/Arduino/2.jpeg?raw=true)
